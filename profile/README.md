@@ -2,9 +2,11 @@
 
 <div align="center">
   
-  ![image](https://github.com/Sinchone/.github/assets/96610382/1681184e-26d3-4981-9eb3-64b4015547b0)
+![서비스로고](https://github.com/Sinchone/.github/assets/96610382/80e67ae2-aaea-49f8-a20e-ab4317d1600a)
+
 
   ###  마지막 한 세트를 위한 헬스 메이트 찾기 Last One
+
 
 </div>
   
