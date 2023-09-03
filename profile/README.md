@@ -1,11 +1,11 @@
-## Last One 🏋
+# 🥇 LastOne 프로젝트
 
 <div align="center">
   
 ![서비스로고](https://github.com/Sinchone/.github/assets/96610382/80e67ae2-aaea-49f8-a20e-ab4317d1600a)
 
 
-  ###  마지막 한 세트를 위한 헬스 메이트 찾기 Last One
+  ### 빠르게 찾는 나만의 헬스 파트너, 라스트 원
 
 
 </div>
