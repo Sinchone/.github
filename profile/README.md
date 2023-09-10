@@ -32,10 +32,13 @@
 ## 👀 주요 기능 미리보기
 
 
-| 카카오 로그인 |  마이페이지 | 파트너 목록 페이지   	|
-|:-:	|:-:	|:-:	|
-| <img src="https://github.com/Sinchone/.github/assets/96610382/f7b2f3f3-8396-4d0b-97b0-aec00e23ca95" width="250" height="400">  	|  <img src="https://github.com/Sinchone/.github/assets/96610382/9e145bc0-2401-4540-9923-be16988330a5" width="250" height="400"> 	| <img src="https://github.com/Sinchone/.github/assets/96610382/d303dcfb-5152-484a-a1ff-c6416ab86dd0" width="250" height="400"> |
+| 카카오 로그인 |  마이페이지 |
+|:-:	|:-:	|
+| <img src="https://github.com/Sinchone/.github/assets/96610382/f7b2f3f3-8396-4d0b-97b0-aec00e23ca95" width="250" height="400">  	|  <img src="https://github.com/Sinchone/.github/assets/96610382/9e145bc0-2401-4540-9923-be16988330a5" width="250" height="400"> 	|
 
+| 파트너 목록 페이지 |  마이페이지 |
+|:-:	|:-:	|
+| <img src="https://github.com/Sinchone/.github/assets/96610382/d303dcfb-5152-484a-a1ff-c6416ab86dd0" width="250" height="400">     |     |
 
 
 </br>
