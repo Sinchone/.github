@@ -31,6 +31,10 @@
 
 ## 👀 주요 기능 미리보기
 
+<img src="https://github.com/Sinchone/.github/assets/96610382/c5321396-d5e5-4bdc-8e5d-4db55cbae78d" width="200" height="400">
+
+
+
 
 </br>
 </br>
