@@ -29,9 +29,10 @@
 
 <br/>
 
+
 ## 기술 스택
 
-<img src="https://github.com/Sinchone/.github/assets/96610382/199c08cc-f80f-4678-bf22-d38b490b31a8" width="100%" />
+<img src="https://github.com/Sinchone/.github/assets/96610382/3063f288-77e4-4cea-8bb2-2e07286365f8" width="100%" />
 
 
 
