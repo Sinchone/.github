@@ -43,16 +43,19 @@
 <br/>
 
 
-## 👀 주요 기능 미리보기
+## 💻 주요 기능 미리보기
   
 | 카카오 로그인 |  마이페이지 |
 |:-:	|:-:	|
-| <img src="https://github.com/Sinchone/.github/assets/96610382/f7b2f3f3-8396-4d0b-97b0-aec00e23ca95" width="250" height="400">  	|  <img src="https://github.com/Sinchone/.github/assets/96610382/9e145bc0-2401-4540-9923-be16988330a5" width="250" height="400"> 	|
+| <img src="https://github.com/Sinchone/.github/assets/96610382/dd6f0ebe-a4d9-4ee9-8952-145d002c4176" width="50%" > |  <img src="https://github.com/Sinchone/.github/assets/96610382/9e145bc0-2401-4540-9923-be16988330a5" width="50%"> 	|
 
   
-| 파트너 목록 페이지 |  마이페이지 |
+| 파트너 목록 페이지 |  파트너 검색 페이지 |
 |:-:	|:-:	|
-| <img src="https://github.com/Sinchone/.github/assets/96610382/d303dcfb-5152-484a-a1ff-c6416ab86dd0" width="250" height="400">     |     |
+| <img src="https://github.com/Sinchone/.github/assets/96610382/d303dcfb-5152-484a-a1ff-c6416ab86dd0" width="50%" height="100%" >  |   <img src="https://github.com/Sinchone/.github/assets/96610382/dc250172-3433-4d0e-9b4b-69ccef27bd53" width="50%" height="100%" > |
+
+
+
 
 </br>
 </br>
