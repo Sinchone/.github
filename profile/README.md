@@ -30,13 +30,14 @@
 <br/>
 
 
-## 기술 스택
+## 🔧 기술 스택
 
-<img src="https://github.com/Sinchone/.github/assets/96610382/3063f288-77e4-4cea-8bb2-2e07286365f8" width="100%" />
+<img width="100%" alt="backend" src="https://github.com/Sinchone/.github/assets/96610382/f3adffb4-1239-44d5-b869-3efddb697b19">
 
-
+<img width="100%" alt="frontend" src="https://github.com/Sinchone/.github/assets/96610382/7c06319c-2116-466c-82fb-c9a5aa9a21bd">
 
 <br/>
+
 <br/>
 
 ## 👀 주요 기능 미리보기
