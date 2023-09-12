@@ -29,6 +29,15 @@
 
 <br/>
 
+## 기술 스택
+
+<img src="https://github.com/Sinchone/.github/assets/96610382/199c08cc-f80f-4678-bf22-d38b490b31a8" width="100%" />
+
+
+
+
+<br/>
+
 ## 👀 주요 기능 미리보기
   
 | 카카오 로그인 |  마이페이지 |
