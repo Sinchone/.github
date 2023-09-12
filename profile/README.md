@@ -11,7 +11,7 @@
 </div>
   
 
-
+<br/>
 <br/>
 
 #### - 프로젝트 명 : LastOne(라스트원)
@@ -20,6 +20,7 @@
 #### - [배포 링크 바로가기](https://health-partner-last1.netlify.app/)
 
 <br/>
+<br/>
 
 ## :information_desk_person: 소개
 
@@ -27,18 +28,20 @@
 - 운동 보조가 있으면 근성장이 될 것 같은 생각이 드시나요?
 - 그렇다면 LastOne에서 나만의 헬스 파트너를 찾아보세요!
 
+
+<br/>
 <br/>
 
 
 ## 🔧 기술 스택
 
 <img width="100%" alt="backend" src="https://github.com/Sinchone/.github/assets/96610382/f3adffb4-1239-44d5-b869-3efddb697b19">
-
 <img width="100%" alt="frontend" src="https://github.com/Sinchone/.github/assets/96610382/7c06319c-2116-466c-82fb-c9a5aa9a21bd">
 
 <br/>
-
 <br/>
+<br/>
+
 
 ## 👀 주요 기능 미리보기
   
@@ -74,7 +77,7 @@
 <img src="https://github.com/Jeongho0805/demotest/blob/main/img/architecture.jpg" />
 
 <br/>
-</br>
+<br/>
 
 ## 📃 API 명세서 [링크](https://six-skirt-6ca.notion.site/19f4bc4659d840a1a295bb571da01b7f?v=e3b86639da3143fd96d74c89b500e8df&pvs=4)
 
